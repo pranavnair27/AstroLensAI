@@ -3,7 +3,7 @@
  AstroLens AI
  Hybrid AI Pipeline for Exoplanet Detection
 ===========================================================
-Author : Team AstroLens
+Author : Team Pratyagra
 ===========================================================
 """
 
