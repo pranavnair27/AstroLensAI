@@ -1,4 +1,5 @@
-# AstroLens AI
+# AstroLens AI - A vision of a scalable, AI powered exoplanet detection software.
+- The following is strictly a BETA work-in-progress prototype (may have bugs) for the problem statement, where our team has focused on bringing our vision to reality, by exploring various datasets and training our AI model for future use.
 ### P7: AI-Enabled Detection of Exoplanets from Noisy Astronomical Light Curves
 
 AstroLens AI is an end-to-end machine learning pipeline for detecting and classifying exoplanet transit signals from noisy astronomical light curves. The project combines astrophysical signal processing with machine learning to identify potential exoplanets, estimate their orbital parameters, and provide an explainable confidence score.
