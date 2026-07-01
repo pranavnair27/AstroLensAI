@@ -1,5 +1,5 @@
 # AstroLens AI
-### AI-Enabled Detection of Exoplanets from Noisy Astronomical Light Curves
+### P7: AI-Enabled Detection of Exoplanets from Noisy Astronomical Light Curves
 
 AstroLens AI is an end-to-end machine learning pipeline for detecting and classifying exoplanet transit signals from noisy astronomical light curves. The project combines astrophysical signal processing with machine learning to identify potential exoplanets, estimate their orbital parameters, and provide an explainable confidence score.
 Developed by Team Pratyagra for the Hack2Skill Bharatiya Antariksh Hackathon 2026.
