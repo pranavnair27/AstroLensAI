@@ -206,21 +206,8 @@ def classify_candidate(
 
 ):
 
-    vector = np.array([
-
-        [
-
-            features["period"],
-
-            features["duration"],
-
-            features["depth"],
-
-            features["snr"]
-
-        ]
-
-    ])
+vector = feature_vector(features)
+vector = scaler.transform(vector)
 
     vector = scaler.transform(vector)
 
